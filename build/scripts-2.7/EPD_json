@@ -1,0 +1,14 @@
+#!/usr/bin/python
+
+
+# EPD_json : python script for displaying .json data on Embedded Artists 2.7" EPD.
+# More in /usr/local/lib/python2.7/dist-packages/ea_epd_sensor_values/README .
+
+
+import sys
+import ea_epd_sensor_values
+
+if len(sys.argv) == 1:
+	ea_epd_sensor_values.main([])
+else:
+	ea_epd_sensor_values.main([sys.argv[1]])

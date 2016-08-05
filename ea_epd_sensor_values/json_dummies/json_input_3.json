@@ -1,0 +1,18 @@
+[
+    {
+        "label" : "Temperature",
+        "value" : "23.5",
+        "status" : "false"
+    },
+    {
+        "label" : "Humidity",
+        "value" : "63.8",
+        "status" : "true" 
+    },
+
+    {
+        "label" : "Flow",
+        "value" : "0.8",
+        "status" : "false" 
+    }
+]

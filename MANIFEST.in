@@ -1,0 +1,5 @@
+#Specification of the non-python files to be installed with the package.
+#
+include ea_epd_sensor_values/README.md
+include ea_epd_sensor_values/Images/*.xbm
+include ea_epd_sensor_values/json_dummies/*.json

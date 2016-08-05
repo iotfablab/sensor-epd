@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ea-epd-sensor-values
+Version: 1.0
+Summary: Display .json file on Embedded Artists 2.7" EPD
+Home-page: https://gitlab.ips.biba.uni-bremen.de/iotfablab/ea-epd-sensor-values
+Author: Mikolaj Dobielewski
+Author-email: dob@biba.uni-bremen.de
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
