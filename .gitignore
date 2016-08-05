@@ -1,0 +1,5 @@
+/ea_epd_sensor_values/*.pyc
+/build/
+/dist/
+json_test.py
+/*.egg-info
